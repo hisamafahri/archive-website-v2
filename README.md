@@ -1,6 +1,6 @@
 # Hisam's Personal Website v2
 
-<!-- This website was built using [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). The overall design was heavily inspired by [Dark Theme](https://probberechts.github.io/hexo-theme-cactus/cactus-dark/public/) of [Hexo Theme Cactus](https://github.com/probberechts/hexo-theme-cactus) -->
+This website was built using [Svelte](https://svelte.dev/) with [SvelteKit](https://kit.svelte.dev/). The overall design was heavily inspired by the websites of [Maxime Bonhome's](https://bonhomme.lol/) and [Emil Kowalski's](https://emilkowal.ski/)
 
 ## Developing
 
