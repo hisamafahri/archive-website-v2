@@ -17,7 +17,7 @@
 
 <div class="mt-8">
 	<p class="text-sm text-gray-700">
-		I'm an engineer interested in design and system, currently working at <a
+		I'm an engineer interested in system and design architecture (well technically every part of building a product), currently working at <a
 			class="underline underline-offset-4 hover:no-underline hover:text-orange-500"
 			href="https://pitik.id"
 			target="_blank">🐔 Pitik</a
