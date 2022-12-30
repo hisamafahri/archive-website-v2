@@ -29,5 +29,6 @@
 	<h3 class="mb-6">Links</h3>
 	<Link name="GitHub" href="https://github.com/hisamafahri" account="@hisamafahri" />
 	<Link name="Twitter" href="https://twitter.com/hisamafahri" account="@hisamafahri" />
+	<Link name="LinkedIn" href="https://linkedin.com/in/hisamafahri" account="/in/hisamafahri" />
 	<Link name="Email me" href="mailto:me@hisamafahri.com" account="me@hisamafahri.com" />
 </div>
