@@ -17,7 +17,8 @@
 
 <div class="mt-8">
 	<p class="text-sm text-gray-700">
-		I'm an engineer interested in system and design architecture (well technically every part of building a product), currently working at <a
+		I'm an engineer interested in system and design architecture (well technically every part of
+		building a product), currently working at <a
 			class="underline underline-offset-4 hover:no-underline hover:text-orange-500"
 			href="https://pitik.id"
 			target="_blank">🐔 Pitik</a
@@ -27,8 +28,33 @@
 
 <div class="mt-8">
 	<h3 class="mb-6">Links</h3>
-	<Link name="GitHub" href="https://github.com/hisamafahri" account="@hisamafahri" />
-	<Link name="Twitter" href="https://twitter.com/hisamafahri" account="@hisamafahri" />
-	<Link name="LinkedIn" href="https://linkedin.com/in/hisamafahri" account="/in/hisamafahri" />
-	<Link name="Email me" href="mailto:me@hisamafahri.com" account="me@hisamafahri.com" />
+	<Link
+		target="_blank"
+		name="GitHub"
+		href="https://github.com/hisamafahri"
+		display="@hisamafahri"
+	/>
+	<Link
+		target="_blank"
+		name="Twitter"
+		href="https://twitter.com/hisamafahri"
+		display="@hisamafahri"
+	/>
+	<Link
+		target="_blank"
+		name="LinkedIn"
+		href="https://linkedin.com/in/hisamafahri"
+		display="/in/hisamafahri"
+	/>
+	<Link
+		target="_blank"
+		name="Email me"
+		href="mailto:me@hisamafahri.com"
+		display="me@hisamafahri.com"
+	/>
+</div>
+
+<div class="mt-8">
+	<h3 class="mb-6">Writings</h3>
+	<Link name="20-01-2023" href="/post/20-01-2023" display="Hello, world!" />
 </div>
