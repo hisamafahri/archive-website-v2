@@ -1,6 +1,6 @@
 <script>
 	import profile from '$lib/assets/image/profile.jpeg';
-	import Link from './components/Link.svelte';
+	import Link from '../lib/components/Link.svelte';
 </script>
 
 <svelte:head>
@@ -18,7 +18,7 @@
 <div class="mt-8">
 	<p class="text-sm text-gray-700">
 		I'm an engineer interested in system and design architecture (well technically every part of
-		building a product), currently working at <a
+		building a product). Currently working at <a
 			class="underline underline-offset-4 hover:no-underline hover:text-orange-500"
 			href="https://pitik.id"
 			target="_blank">🐔 Pitik</a
@@ -55,6 +55,55 @@
 </div>
 
 <div class="mt-8">
+	<h3 class="mb-6">Projects</h3>
+	<Link
+		name="codefly"
+		href="https://github.com/hisamafahri/codefly"
+		target="_blank"
+		display="Share your code snippets anonimously"
+	/>
+	<Link
+		name="coco"
+		href="https://github.com/hisamafahri/coco"
+		target="_blank"
+		display="Color converter package for Go"
+	/>
+	<Link
+		name="nit"
+		href="https://github.com/hisamafahri/nit"
+		target="_blank"
+		display="Git CLI wrapper to make it more fun"
+	/>
+	<Link
+		name="editr"
+		href="https://github.com/hisamafahri/nit"
+		target="_blank"
+		display="Yet another simple Rich Text Editor"
+	/>
+	<Link
+		name="letta"
+		href="https://github.com/hisamafahri/letta"
+		target="_blank"
+		display="(WIP) UI library that doesn't sucks"
+	/>
+	<Link
+		name="todomi"
+		href="https://github.com/hisamafahri/todomi"
+		target="_blank"
+		display="(WIP) My own programming language (I guess?)"
+	/>
+	<div class="mt-8 w-min">
+		<a
+			class="text-sm text-gray-700 hover:underline whitespace-nowrap"
+			target="_blank"
+			href="https://github.com/hisamafahri"><p>And much more...</p></a
+		>
+	</div>
+</div>
+
+<div class="mt-8">
 	<h3 class="mb-6">Writings</h3>
-	<Link name="20-01-2023" href="/post/20-01-2023" display="Hello, world!" />
+	<div class="mt-4 w-min">
+		<p class="text-sm text-gray-700 whitespace-nowrap">Still migrating...</p>
+	</div>
 </div>
