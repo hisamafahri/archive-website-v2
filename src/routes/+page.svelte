@@ -101,7 +101,7 @@
 	</div>
 </div>
 
-<div class="mt-8">
+<div class="mt-8 mb-24">
 	<h3 class="mb-6">Writings</h3>
 	<div class="mt-4 w-min">
 		<p class="text-sm text-gray-700 whitespace-nowrap">Still migrating...</p>
