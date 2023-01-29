@@ -75,6 +75,12 @@
 		display="Git CLI wrapper to make it more fun"
 	/>
 	<Link
+		name="create-min-app"
+		href="https://github.com/hisamafahri/create-min-app"
+		target="_blank"
+		display="Generate minimum projects in various tech-stack, easily"
+	/>
+	<Link
 		name="editr"
 		href="https://github.com/hisamafahri/nit"
 		target="_blank"

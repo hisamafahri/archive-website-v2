@@ -6,7 +6,7 @@
 </script>
 
 <div class="flex flex-row items-start justify-start text-sm mt-4">
-	<p class="text-gray-500 mr-8 w-20">{name}</p>
+	<p class="text-gray-500 mr-4 w-32">{name}</p>
 	<a class="flex flex-row items-center justify-start text-gray-700 hover:underline" {href} {target}
 		>{display}
 		{#if target}
