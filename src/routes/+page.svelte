@@ -27,7 +27,7 @@
 </div>
 
 <div class="mt-8">
-	<h3 class="mb-6">Links</h3>
+	<h3 class="mb-6 font-semibold">Links</h3>
 	<Link
 		target="_blank"
 		name="GitHub"
@@ -55,7 +55,7 @@
 </div>
 
 <div class="mt-8">
-	<h3 class="mb-6">Projects</h3>
+	<h3 class="mb-6 font-semibold">Projects</h3>
 	<Link
 		name="codefly"
 		href="https://github.com/hisamafahri/codefly"
@@ -100,7 +100,7 @@
 	/>
 	<div class="mt-8 w-min">
 		<a
-			class="text-sm text-gray-700 hover:underline whitespace-nowrap"
+			class="text-sm text-gray-700 hover:underline whitespace-nowrap no-underline"
 			target="_blank"
 			href="https://github.com/hisamafahri"><p>And much more...</p></a
 		>
@@ -108,7 +108,7 @@
 </div>
 
 <div class="mt-8 mb-24">
-	<h3 class="mb-6">Journals</h3>
+	<h3 class="mb-6 font-semibold">Journals</h3>
 	<Link
 		name="2023-01-29"
 		href="/journals/2023-01-29"
