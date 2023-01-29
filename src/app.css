@@ -7,3 +7,17 @@
         @apply max-w-xl font-inter mx-auto bg-[#fcfcfc];
 	}
 }
+
+@layer components {
+  a {
+    @apply underline underline-offset-4 hover:text-gray-900;
+  }
+
+  .content {
+    @apply leading-6;
+  }
+
+  .head-section {
+    @apply text-base font-semibold mb-2 mt-8;
+  }
+}
