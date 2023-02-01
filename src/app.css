@@ -14,7 +14,7 @@
   }
 
   .content {
-    @apply leading-6;
+    @apply leading-6 mb-24;
   }
 
   .head-section {
