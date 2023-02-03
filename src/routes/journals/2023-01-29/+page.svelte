@@ -1,5 +1,5 @@
 <svelte:head>
-	<title>Hello, world! | Hisam Fahri</title>
+	<title>Hello, world! - Hisam's Journal</title>
 </svelte:head>
 
 <div class="mt-24 mb-12">
@@ -28,7 +28,7 @@
 		as many things as possible, as often as possible. It might be a technical articles, it might be
 		some random thoughts of mine, it can be anything.
 	</p>
-
+	<br />
 	<p>
 		While it might be worthless, I think having a habit to write down anything can surely be a great
 		assets of mine. Not just in <a

@@ -110,6 +110,11 @@
 <div class="mt-8 mb-24">
 	<h3 class="mb-6 font-semibold">Journals</h3>
 	<Link
+		name="2023-02-03"
+		href="/journals/2023-02-03"
+		display="Declared vs Inferred Types, a Debate of the Century"
+	/>
+	<Link
 		name="2023-01-29"
 		href="/journals/2023-01-29"
 		display="Hello, world!"
