@@ -18,12 +18,7 @@
 <div class="mt-8">
 	<p class="text-sm text-gray-700">
 		I'm an engineer interested in system and design architecture (well technically every part of
-		building a product). Currently working at <a
-			class="underline underline-offset-4 hover:no-underline hover:text-orange-500"
-			href="https://pitik.id"
-			target="_blank">🐔 Pitik</a
-		>.
-	</p>
+		building a product)</p>
 </div>
 
 <div class="mt-8">
@@ -56,6 +51,12 @@
 
 <div class="mt-8">
 	<h3 class="mb-6 font-semibold">Projects</h3>
+	<Link
+		name="ngoding.org"
+		href="https://ngoding.org"
+		target="_blank"
+		display="Learn to code, for free, for everyone"
+	/>
 	<Link
 		name="codefly"
 		href="https://github.com/hisamafahri/codefly"
