@@ -1,6 +1,3 @@
-<script>
-</script>
-
 <svelte:head>
 	<title>Personalised Development Environment - Hisam's Journal</title>
 </svelte:head>

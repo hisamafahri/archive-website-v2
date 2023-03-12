@@ -18,7 +18,8 @@
 <div class="mt-8">
 	<p class="text-sm text-gray-700">
 		I'm an engineer interested in system and design architecture (well technically every part of
-		building a product)</p>
+		building a product)
+	</p>
 </div>
 
 <div class="mt-8">
@@ -111,6 +112,11 @@
 <div class="mt-8 mb-24">
 	<h3 class="mb-6 font-semibold">Journals</h3>
 	<Link
+		name="2023-03-12"
+		href="/journals/2023-03-12"
+		display="Building a Product? Always Strive for the 'Right' Execution"
+	/>
+	<Link
 		name="2023-02-20"
 		href="/journals/2023-02-20"
 		display="Personalised Development Environment"
@@ -120,9 +126,5 @@
 		href="/journals/2023-02-03"
 		display="Declared vs Inferred Types, a Debate of the Century"
 	/>
-	<Link
-		name="2023-01-29"
-		href="/journals/2023-01-29"
-		display="Hello, world!"
-	/>
+	<Link name="2023-01-29" href="/journals/2023-01-29" display="Hello, world!" />
 </div>
