@@ -25,10 +25,10 @@
 	</p>
 	<br />
 	<p>
-		I've seen enough cases where building a right and great things in a wrong way can messed up the
-		end products and eventually destroy the product and its vision. A lot of people tend to forget
-		that the building process (execution process) of building a product itself is part of the vision
-		of the product itself.
+		I've seen enough cases where building a great things in a wrong way can messed up the end
+		products and eventually destroy the product and its vision. A lot of people tend to forget that
+		the building process (execution process) of building a product itself is a one of the most
+		curcial process.
 	</p>
 	<br />
 	<div class="blockquote">
@@ -52,7 +52,7 @@
 	<h3 class="head-section">Great Creator Experience</h3>
 	<p>
 		Building a product is hard. But you, as the creator, should enjoy it. If you don't enjoy, how
-		the user will enjoy.
+		the user will enjoy your product later on.
 	</p>
 	<br />
 	<p>
@@ -67,10 +67,10 @@
 	</p>
 	<br />
 	<p>
-		If your product's stage is still is in an MVP stage, this creaotr experience thing becomes even
-		much more important. Why? because you need iterate so much adjusting on your user's feedback. I
-		never said that you should overkill and made your product really overkill, or in the other hand
-		even underkill in the MVP stage (or any stage in that matter), all you need is the sweet spot.
+		If your product's stage is still is in an MVP stage, this creator experience thing becomes even
+		much more important. Why? because you need to iterate so much. I never said that you should
+		overengineered and made your product really overkill, or in the other hand even underkill in the
+		MVP stages (or any stage in that matter), all you need is that sweet spot.
 	</p>
 	<br />
 	<p>
@@ -86,12 +86,12 @@
 	</p>
 	<br />
 	<p>
-		No matter what stages your product is, the user's experience of using your product itself is a
+		No matter what stages your product is, if the user's experience of using your product itself is a
 		hell, then your product is bound to fail.
 	</p>
 	<br />
 	<p>
-		Great user's experience here is not that your product very well designed, there are teams of UX
+		Great user's experience here is not that your product must be very well designed, there are teams of UX
 		researcher spending the majority of your budget for this MVP, no. In fact it's is the opposite.
 	</p>
 	<br />
