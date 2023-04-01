@@ -89,6 +89,12 @@
 		display="Yet another simple Rich Text Editor"
 	/>
 	<Link
+		name="tulkit"
+		href="https://github.com/hisamafahri/tulkit"
+		target="_blank"
+		display="Yet another simple Rich Text Editor"
+	/>
+	<Link
 		name="letta"
 		href="https://github.com/hisamafahri/letta"
 		target="_blank"
