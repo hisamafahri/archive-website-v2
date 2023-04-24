@@ -118,6 +118,11 @@
 <div class="mt-8 mb-24">
 	<h3 class="mb-6 font-semibold">Journals</h3>
 	<Link
+		name="2023-04-24"
+		href="/journals/2023-04-24"
+		display="Rule #0 for Product Managers"
+	/>
+	<Link
 		name="2023-03-12"
 		href="/journals/2023-03-12"
 		display="Building a Product? Always Strive for the 'Right' Execution"
