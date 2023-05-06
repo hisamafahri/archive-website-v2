@@ -84,7 +84,7 @@
 	/>
 	<Link
 		name="editr"
-		href="https://github.com/hisamafahri/nit"
+		href="https://github.com/hisamafahri/editr"
 		target="_blank"
 		display="Yet another simple Rich Text Editor"
 	/>
@@ -92,7 +92,7 @@
 		name="tulkit"
 		href="https://github.com/hisamafahri/tulkit"
 		target="_blank"
-		display="Simple desktop's system tray application built with Rust for my daily needs"
+		display="Rust desktop app for my daily needs"
 	/>
 	<Link
 		name="letta"
