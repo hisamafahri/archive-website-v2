@@ -65,6 +65,12 @@
 		display="Share your code snippets anonimously"
 	/>
 	<Link
+		name="samstack"
+		href="https://github.com/hisamafahri/samstack"
+		target="_blank"
+		display="The latest best full-stack tech for a blazingly fast development"
+	/>
+	<Link
 		name="coco"
 		href="https://github.com/hisamafahri/coco"
 		target="_blank"
