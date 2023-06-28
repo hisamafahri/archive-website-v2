@@ -54,7 +54,7 @@
 	<h3 class="mb-6 font-semibold">Projects</h3>
 	<Link
 		name="ngoding.org"
-		href="https://ngoding.org"
+		href="https://ngodingorg.vercel.app"
 		target="_blank"
 		display="Learn to code, for free, for everyone"
 	/>
