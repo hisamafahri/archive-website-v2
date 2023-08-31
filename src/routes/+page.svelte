@@ -11,7 +11,7 @@
 	<img class="rounded-full w-14 h-14" src={profile} alt="profile" />
 	<div>
 		<h2 class="text-lg font-semibold">Hisam Fahri</h2>
-		<p class="text-base font-normal text-gray-400">Software Engineer</p>
+		<p class="text-base font-normal text-gray-400">Reader, developer, dream catcher.</p>
 	</div>
 </div>
 
@@ -24,6 +24,18 @@
 
 <div class="mt-8">
 	<h3 class="mb-6 font-semibold">Links</h3>
+	<Link
+    target=" "
+		name="Thoughts & Ideas"
+		href="journals"
+		display="Journal Collections"
+	/>
+	<Link
+    target=" "
+		name="Works"
+		href="projects"
+		display="Project Collections"
+	/>
 	<Link
 		target="_blank"
 		name="GitHub"
@@ -50,103 +62,15 @@
 	/>
 </div>
 
-<div class="mt-8">
-	<h3 class="mb-6 font-semibold">Projects</h3>
-	<Link
-		name="ngoding.org"
-		href="https://ngodingorg.vercel.app"
-		target="_blank"
-		display="Learn to code, for free, for everyone"
-	/>
-	<Link
-		name="codefly"
-		href="https://github.com/hisamafahri/codefly"
-		target="_blank"
-		display="Share your code snippets anonimously"
-	/>
-	<Link
-		name="samstack"
-		href="https://github.com/hisamafahri/samstack"
-		target="_blank"
-		display="The latest best full-stack tech for a blazingly fast development"
-	/>
-	<Link
-		name="coco"
-		href="https://github.com/hisamafahri/coco"
-		target="_blank"
-		display="Color converter package for Go"
-	/>
-	<Link
-		name="nit"
-		href="https://github.com/hisamafahri/nit"
-		target="_blank"
-		display="Git CLI wrapper to make it more fun"
-	/>
-	<Link
-		name="create-min-app"
-		href="https://github.com/hisamafahri/create-min-app"
-		target="_blank"
-		display="Generate minimum projects in various tech-stack, easily"
-	/>
-	<Link
-		name="editr"
-		href="https://github.com/hisamafahri/editr"
-		target="_blank"
-		display="Yet another simple Rich Text Editor"
-	/>
-	<Link
-		name="tulkit"
-		href="https://github.com/hisamafahri/tulkit"
-		target="_blank"
-		display="Rust desktop app for my daily needs"
-	/>
-	<Link
-		name="letta"
-		href="https://github.com/hisamafahri/letta"
-		target="_blank"
-		display="(WIP) UI library that doesn't sucks"
-	/>
-	<Link
-		name="todomi"
-		href="https://github.com/hisamafahri/todomi"
-		target="_blank"
-		display="(WIP) My own programming language (I guess?)"
-	/>
-	<div class="mt-8 w-min">
-		<a
-			class="text-sm text-gray-700 hover:underline whitespace-nowrap no-underline"
-			target="_blank"
-			href="https://github.com/hisamafahri"><p>And much more...</p></a
-		>
-	</div>
-</div>
-
-<div class="mt-8 mb-24">
-	<h3 class="mb-6 font-semibold">Journals</h3>
-	<Link
-		name="2023-08-24"
-		href="/journals/2023-08-24"
-		display="The Case Against Specialists (and Generalists)"
-	/>
-	<Link
-		name="2023-04-24"
-		href="/journals/2023-04-24"
-		display="Rule #0 for Product Managers"
-	/>
-	<Link
-		name="2023-03-12"
-		href="/journals/2023-03-12"
-		display="Building a Product? Always Strive for the 'Right' Execution"
-	/>
-	<Link
-		name="2023-02-20"
-		href="/journals/2023-02-20"
-		display="Personalised Development Environment"
-	/>
-	<Link
-		name="2023-02-03"
-		href="/journals/2023-02-03"
-		display="Declared vs Inferred Types, a Debate of the Century"
-	/>
-	<Link name="2023-01-29" href="/journals/2023-01-29" display="Hello, world!" />
+<div class="mt-16">
+	<h3 class="mb-6 font-semibold">Some Things I Believe</h3>
+  <ul class="list-disc">
+    <li>It&apos;s important to do things FAST!</li>
+    <ul class="ml-6 list-[circle]">
+      <li>Time is finite resources</li>
+      <li>Time is the denominator</li>
+      <li>A week is 2% of the year</li>
+      <li>Going fast makes you focus on what's important. No wasted time for the unimportant</li>
+    </ul>
+  </ul>
 </div>
