@@ -6,11 +6,10 @@
 	<title>Hisam Fahri</title>
 </svelte:head>
 
-
 <div class="flex flex-row items-center justify-start space-x-4 mt-24">
 	<div>
 		<h2 class="text-lg font-semibold">Journals</h2>
-    <a class="text-base font-normal text-gray-400" href="/">Home</a>
+		<a class="text-base font-normal text-gray-400" href="/">Home</a>
 	</div>
 </div>
 
@@ -19,16 +18,13 @@
 </div>
 
 <div class="mt-8">
+	<Link name="2023-09-23" href="/journals/2023-09-23" display="Team Allocation. A Confusing Task" />
 	<Link
 		name="2023-08-24"
 		href="/journals/2023-08-24"
 		display="The Case Against Specialists (and Generalists)"
 	/>
-	<Link
-		name="2023-04-24"
-		href="/journals/2023-04-24"
-		display="Rule #0 for Product Managers"
-	/>
+	<Link name="2023-04-24" href="/journals/2023-04-24" display="Rule #0 for Product Managers" />
 	<Link
 		name="2023-03-12"
 		href="/journals/2023-03-12"
