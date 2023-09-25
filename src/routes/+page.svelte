@@ -23,8 +23,6 @@
 
 <div class="mt-8">
 	<h3 class="mb-6 font-semibold">Links</h3>
-	<Link target=" " name="Thoughts & Ideas" href="journals" display="Journal Collections" />
-	<Link target=" " name="Works" href="projects" display="Project Collections" />
 	<Link
 		target="_blank"
 		name="GitHub"
@@ -49,6 +47,12 @@
 		href="mailto:me@hisamafahri.com"
 		display="me@hisamafahri.com"
 	/>
+</div>
+
+<div class="my-16">
+	<h3 class="mb-6 font-semibold">My Craft</h3>
+	<Link target=" " name="Thoughts & Ideas" href="journals" display="Journal Collections" />
+	<Link target=" " name="Works" href="projects" display="Project Collections" />
 </div>
 
 <div class="my-16">
