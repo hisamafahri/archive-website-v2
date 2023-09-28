@@ -9,6 +9,10 @@
 }
 
 @layer components {
+	p, li {
+		@apply text-sm text-gray-800;
+	}
+
 	a {
 		@apply underline underline-offset-4 hover:text-gray-900;
 	}
@@ -25,3 +29,4 @@
 		@apply bg-gray-100 pl-6 p-3 italic border-l-4 border-gray-300;
 	}
 }
+

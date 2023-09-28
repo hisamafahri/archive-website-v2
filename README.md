@@ -37,3 +37,4 @@ To learn more about Svelte, take a look at the following resources:
 ## Author
 
 [@hisamafahri](https://github.com/hisamafahri)
+
