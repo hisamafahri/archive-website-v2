@@ -25,6 +25,12 @@
 	<h3 class="mb-6 font-semibold">Links</h3>
 	<Link
 		target="_blank"
+		name="Chat with Me"
+		href="https://cal.com/hisam"
+		display="cal.com/hisam"
+	/>
+	<Link
+		target="_blank"
 		name="GitHub"
 		href="https://github.com/hisamafahri"
 		display="@hisamafahri"
