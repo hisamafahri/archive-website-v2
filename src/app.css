@@ -9,7 +9,8 @@
 }
 
 @layer components {
-	p, li {
+	p,
+	li {
 		@apply text-sm text-gray-800;
 	}
 
@@ -29,4 +30,3 @@
 		@apply bg-gray-100 pl-6 p-3 italic border-l-4 border-gray-300;
 	}
 }
-
