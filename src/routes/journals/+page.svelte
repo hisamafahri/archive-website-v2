@@ -14,7 +14,7 @@
 </div>
 
 <div class="mt-8">
-	<p class="text-sm text-gray-700">My thougths, my perspective, and my wildest ideas.</p>
+	<p class="text-sm text-gray-700">My thoughts, my perspective, and my wildest ideas.</p>
 </div>
 
 <div class="mt-8">

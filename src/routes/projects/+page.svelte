@@ -15,7 +15,7 @@
 </div>
 
 <div class="mt-8">
-	<p class="text-sm text-gray-700">Lately, a lot of my projects (or wannabe startup you might call) are in private repository. But here are some notable open-source projects of mine:</p>
+	<p class="text-sm text-gray-700">Lately, a lot of my projects (or wannabe startups you might call them) are in a private repositories. But, here are some notable open-source projects of mine:</p>
 </div>
 
 <div class="mt-8">
@@ -29,13 +29,13 @@
 		name="codefly"
 		href="https://github.com/hisamafahri/codefly"
 		target="_blank"
-		display="Share your code snippets anonimously"
+		display="Share your code snippets anonymously"
 	/>
 	<Link
 		name="samstack"
 		href="https://github.com/hisamafahri/samstack"
 		target="_blank"
-		display="Bleeding edge tech-stack for supa-fast development"
+		display="Bleeding edge tech stack for supa-fast development"
 	/>
 	<Link
 		name="coco"
@@ -77,7 +77,7 @@
 		name="todomi"
 		href="https://github.com/hisamafahri/todomi"
 		target="_blank"
-		display="(WIP) My own programming language (I guess?)"
+		display="(WIP) My very own programming language (I guess?)"
 	/>
 	<div class="mt-8 w-min">
 		<a
