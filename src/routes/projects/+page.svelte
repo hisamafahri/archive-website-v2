@@ -6,16 +6,19 @@
 	<title>Hisam Fahri</title>
 </svelte:head>
 
-
 <div class="flex flex-row items-center justify-start space-x-4 mt-24">
 	<div>
 		<h2 class="text-lg font-semibold">Projects</h2>
-    <a class="text-base font-normal text-gray-400" href="/">Home</a>
+		<a class="text-base font-normal text-gray-400" href="/">Home</a>
 	</div>
 </div>
 
 <div class="mt-8">
-	<p class="text-sm text-gray-700">Lately, a lot of my projects (or wannabe startups you might call them) are in a private repositories. But, here are some notable open-source projects of mine:</p>
+	<p class="text-sm text-gray-700">
+		Lately, a lot of my projects (or wannabe startups you might call them) are
+		in a private repositories. But, here are some notable open-source projects
+		of mine:
+	</p>
 </div>
 
 <div class="mt-8">
