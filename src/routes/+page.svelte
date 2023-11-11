@@ -86,9 +86,7 @@
 		<ul class="ml-6 list-[circle] !mt-1">
 			<li>Faster decisions, fewer meetings, more experiments, more fun</li>
 			<li>No room for mediocre people (can pay more, too!)</li>
-			<li>
-				Hire another people should be the last option (after internal implementations and third-party services)
-			</li>
+      <li>You can do big things with small teams, but it's hard to do small things with big teams. And small is often plenty. That's the power of small — you do what needs to be done rather than overdoing it.</li>
 		</ul>
 		<li>We should build something insanely great</li>
 		<ul class="ml-6 list-[circle] !mt-1">
