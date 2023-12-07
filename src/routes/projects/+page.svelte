@@ -29,6 +29,12 @@
 		display="Learn to code, for free, for everyone"
 	/>
 	<Link
+		name="MyPocket"
+		href="https://github.com/hisamafahri/mypocket"
+		target="_blank"
+		display="Pocket, but far more better!"
+	/>
+	<Link
 		name="codefly"
 		href="https://github.com/hisamafahri/codefly"
 		target="_blank"
