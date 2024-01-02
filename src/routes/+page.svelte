@@ -24,14 +24,18 @@
 	</p>
 </div>
 
+<div class="my-8">
+	<h3 class="mb-6 font-semibold">Craft</h3>
+	<Link
+		name="Thoughts & Ideas"
+		href="journals"
+		display="Journal Collections"
+	/>
+	<Link name="Works" href="projects" display="Project Collections" />
+</div>
+
 <div class="mt-8">
 	<h3 class="mb-6 font-semibold">Links</h3>
-	<Link
-		target="_blank"
-		name="Chat with me"
-		href="https://cal.com/hisam"
-		display="cal.com/hisam"
-	/>
 	<Link
 		target="_blank"
 		name="GitHub"
@@ -50,23 +54,28 @@
 		href="https://linkedin.com/in/hisamafahri"
 		display="/in/hisamafahri"
 	/>
+</div>
+
+<div class="mt-8">
+	<h3 class="mb-6 font-semibold">Contacts</h3>
+	<Link
+		target="_blank"
+		name="Chat with me"
+		href="https://cal.com/hisam"
+		display="cal.com/hisam"
+	/>
 	<Link
 		target="_blank"
 		name="Email me"
 		href="mailto:me@hisamafahri.com"
 		display="me@hisamafahri.com"
 	/>
-</div>
-
-<div class="my-16">
-	<h3 class="mb-6 font-semibold">My Craft</h3>
 	<Link
-		target=" "
-		name="Thoughts & Ideas"
-		href="journals"
-		display="Journal Collections"
+		target="_blank"
+		name="PGP"
+		href="https://keys.openpgp.org/vks/v1/by-fingerprint/9C17AFF57A72E34FEB10781FFC28DEDBC520268B"
+		display="C520268B (exp: 23 March 2025)"
 	/>
-	<Link target=" " name="Works" href="projects" display="Project Collections" />
 </div>
 
 <div class="my-16">

@@ -1,6 +1,6 @@
 <script>
 	export let name = 'Link';
-	export let href = 'https://hisamafahri';
+	export let href = 'https://hisam.dev';
 	export let display = '@hisamafahri';
 	export let target = undefined;
 </script>
