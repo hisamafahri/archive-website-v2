@@ -12,25 +12,21 @@
 	<div>
 		<h2 class="text-lg font-semibold">Hisam Fahri</h2>
 		<p class="text-base font-normal text-gray-400">
-			Reader, developer, dream catcher.
+			Reader, engineer, dream catcher.
 		</p>
 	</div>
 </div>
 
 <div class="mt-8">
 	<p class="text-sm text-gray-700">
-		I'm an engineer who can wear many hats (technically, almost every hat you
-		can think of) to build a great product.
+		I am an enthusiastic and curious engineer, OSS contributors for countless
+		projects, voracious reader, active (trying my best) writer.
 	</p>
 </div>
 
 <div class="my-8">
 	<h3 class="mb-6 font-semibold">Craft</h3>
-	<Link
-		name="Thoughts & Ideas"
-		href="journals"
-		display="Journal Collections"
-	/>
+	<Link name="Thoughts & Ideas" href="journals" display="Journal Collections" />
 	<Link name="Works" href="projects" display="Project Collections" />
 </div>
 
@@ -72,7 +68,7 @@
 	/>
 	<Link
 		target="_blank"
-		name="PGP"
+		name="PGP key"
 		href="https://keys.openpgp.org/vks/v1/by-fingerprint/9C17AFF57A72E34FEB10781FFC28DEDBC520268B"
 		display="C520268B (exp: 23 March 2025)"
 	/>

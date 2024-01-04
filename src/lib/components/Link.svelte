@@ -10,7 +10,7 @@
 		<p class="text-gray-500">{name}</p>
 	</div>
 	<a
-		class="ml-4 w-3/4 flex flex-row items-center justify-start text-gray-700 no-underline hover:underline"
+		class="ml-4 flex flex-row items-center justify-start text-gray-700 no-underline hover:underline"
 		{href}
 		{target}
 		>{display}
