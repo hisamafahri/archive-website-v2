@@ -1,3 +1,7 @@
+> [!CAUTION]
+> This version is deprecated and not actively maintained in favour of [version 3](https://github.com/hisamafahri/website-v3).
+
+
 # Hisam's Personal Website v2
 
 This website was built using [Svelte](https://svelte.dev/) with [SvelteKit](https://kit.svelte.dev/). The overall design was heavily inspired by the websites of [Maxime Bonhome's](https://bonhomme.lol/) and [Emil Kowalski's](https://emilkowal.ski/)
